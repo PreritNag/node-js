@@ -1,0 +1,11 @@
+REST API-JSON
+
+GET/users-List all users
+GET/users/{id} - Get user by id
+GET/users/{id}/posts - Get posts by user id
+
+POST/users- create a user
+
+PATCH/users/{id}-edit the user ID {id}
+
+DELETE/users/{id}-Delete the user with id 1
